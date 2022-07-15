@@ -1,0 +1,25 @@
+.title {
+    text-align: center;
+}
+
+.principal {
+    background: #007c5a
+    ;
+}
+
+img {
+    width: 125px;
+    margin-right: 25px;
+}
+
+.show-card {
+    display: none;
+}
+
+.show-value {
+    display: none;
+}
+
+button:focus {
+    outline: none;
+}

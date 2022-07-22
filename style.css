@@ -1,10 +1,13 @@
-.title {
-    text-align: center;
+body {
+    background-image: url(./assets/fondoBlackYack.jpg);
 }
 
-.principal {
-    background: #007c5a
-    ;
+h1 {
+    color: #ffffff;
+}
+
+.title {
+    text-align: center;
 }
 
 img {
